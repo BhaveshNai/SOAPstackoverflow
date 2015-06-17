@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAEDBA7E-3D3F-477F-BAD4-FDFFEDEEAFAF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SopaStackOverflow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5ED1B1D5-4C38-4D90-BC79-FB42774924E0</key>
+		<string>https://github.com/dsrawat4u/SOAPstackoverflow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SopaStackOverflow.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5ED1B1D5-4C38-4D90-BC79-FB42774924E0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dsrawat4u/SOAPstackoverflow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5ED1B1D5-4C38-4D90-BC79-FB42774924E0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5ED1B1D5-4C38-4D90-BC79-FB42774924E0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SOAPstackoverflow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
